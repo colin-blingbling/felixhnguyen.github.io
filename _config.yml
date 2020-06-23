@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Felix Nguyen's Site"
 title_separator          : "-"
 name                     : &name "Felix Nguyen"
-description              : &description "Felix Nguyen, PhD Emory"
+description              : &description "Felix Nguyen, PhD student @ Emory"
 url                      : https:/felixnguyen31.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "felixnguyen31/felixnguyen31.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Felix Nguyen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I'm a PhD student in Quantitative Marketing at Emory University."
   location         : "Atlanta, GA"
   employer         :
   pubmed           : 
