@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Felix Nguyen's Site"
+title                    : "FELIX NGUYEN"
 title_separator          : "-"
 name                     : &name "Felix Nguyen"
 description              : &description "Felix Nguyen, PhD student @ Emory"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : pnguyen7@wisc.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
