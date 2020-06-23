@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Econ in Business Economics, Foreign Trade University, Vietnam, 2015
+* MBA in Marketing Research, University of Wisconsin - Madison, Madison, WI, 2019
+* Ph.D in Marketing, Emory University, Atlanta, GA, 2025 (Expected)
 
 Work experience
 ======
