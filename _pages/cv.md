@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Felix's CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Full PDF version [here](https://felixnguyen31.github.io/files/Felix_Nguyen_CV.pdf).
 
 Education
 ======
