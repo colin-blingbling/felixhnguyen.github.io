@@ -3,13 +3,13 @@ main:
   - title: "Vitae"
     url: /cv/
     
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
 
   - title: "Teaching"
     url: /teaching/    
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
 
    
