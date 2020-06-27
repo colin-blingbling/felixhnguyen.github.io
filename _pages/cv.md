@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* 🎓 Ph.D in Marketing, Emory University, Atlanta, GA, 2025 (Expected)
-* 🎓 MBA in Marketing Research, University of Wisconsin - Madison, Madison, WI, 2019
-* 🎓 B.Econ in Business Economics, Foreign Trade University, Vietnam, 2015
+* 🎓 Ph.D in Marketing, [Emory University](http://www.emory.edu/), Atlanta, GA, 2025 (Expected)
+* 🎓 MBA in Marketing Research, [University of Wisconsin - Madison](https://www.wisc.edu/), Madison, WI, 2019
+* 🎓 B.Econ in Business Economics, [Foreign Trade University](http://english.ftu.edu.vn/), Vietnam, 2015
 
 Work experience
 ======
