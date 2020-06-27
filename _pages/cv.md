@@ -27,7 +27,7 @@ Work experience
   * [American Familty Insurance](https://www.amfam.com/)
   * Conducted research on emerging InsurTech topics, design and test insurance-related business concepts.
 
-* 2016-2017: Product Management Associate
+* 2015-2017: Product Management Associate
   * [FE Credit Financial](https://fecredit.com.vn/en/)
   * Led the development and deployment of CRM-related projects (360 Portal, IVR system, Instant Messenger Chatbot).
   
