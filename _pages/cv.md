@@ -42,6 +42,8 @@ Skills
 
 Awards
 ======
-* Wisconsin School of Business Alumni Fellowship (2017)
-* Mobile Marketing Association (MMA) SMARTIES Award - APAC Region Gold Prize for innovative CRM product (2017)
-* American Chamber of Commerce Scholarship (2014)
+* Goizueta Business School Doctoral Fellowship, Emory University (2020-2025)
+* Wisconsin School of Business Alumni Fellowship, University of Wisconsin - Madison (2017 - 2019)
+* SMARTIES Award - APAC Region Gold Prize for Innovative CRM Product, [Mobile Marketing Association](https://www.mmaglobal.com/) (2017)
+* AmCham Scholarship, American Chamber of Commerce in Vietnam (2014)
+* Vietnam National Youth Informatics Olympiad - Gold Medal (2010)
