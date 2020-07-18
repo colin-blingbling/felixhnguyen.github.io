@@ -17,18 +17,22 @@ Education
 * 🎓 MBA in Marketing Research, [University of Wisconsin - Madison](https://www.wisc.edu/), Madison, WI, 2019
 * 🎓 B.Econ in Business Economics, [Foreign Trade University](http://english.ftu.edu.vn/), Vietnam, 2015
 
-Work experience
+Teaching Experience
 ======
-* 2018-2020: Graduate Assistant
-  * University of Wisconsin - Madison
-  * Teaching Assistant for MBA/MS courses in Project Management, Data to Decision, and Marketing Analytics
-  
+* 2018-2020: Graduate Teaching Assistant
+  * [University of Wisconsin - Madison](https://wisc.edu)
+  * Fall 2018: GB 704 - Data to Decision (MBA core)
+  * Fall 2019: OTM 752 - Project Management (MBA/MS & Executive MBA)
+  * Spring 2020: MKT 815 - Marketing Analytics (BBA & MBA)
+
+Professional Experience
+======
 * Summer 2018: Innovation Research Intern
   * [American Familty Insurance](https://www.amfam.com/)
   * Conducted research on emerging InsurTech topics, design and test insurance-related business concepts.
 
-* 2015-2017: Product Management Associate
-  * [FE Credit Financial](https://fecredit.com.vn/en/)
+* 2015-2017: Product Manager
+  * [FE Credit Financial](https://fecredit.com.vn/en/) - Leading personal finance firm in Vietnam.
   * Led the development and deployment of CRM-related projects (360 Portal, IVR system, Instant Messenger Chatbot).
   
 Skills
