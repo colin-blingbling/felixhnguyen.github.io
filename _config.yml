@@ -13,7 +13,7 @@ name                     : &name "Felix Nguyen"
 description              : &description "Felix Nguyen, PhD student @ Emory"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "felixnguyen31/felixnguyen31.github.io"
+repository               : "felixhnguyen/felixhnguyen.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
