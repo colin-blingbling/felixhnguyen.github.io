@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full PDF version [here](https://felixnguyen31.github.io/files/Felix_Nguyen_CV.pdf).
+Full PDF version [here](https://felixhnguyen.github.io/files/Felix_Nguyen_CV.pdf).
 
 Education
 ======
