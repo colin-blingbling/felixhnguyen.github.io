@@ -15,4 +15,4 @@ habits. Exploiting the variation in required math courses triggered by “A Nati
 coursework can lead to roughly 20% improvement on coupon utilization rate, and this effect persists until much later in life. Evidence also suggests that the effect is strongest amongst minority consumers.
 [Download paper here](http://academicpages.github.io/files/Felix-FinEdu.pdf)
 
-Recommended citation: Felix Nguyen. (2021). &quot;Do Math Whizzes Save More? Long-term Effect of Mathemathical Education on Consumption Behavior. <i>Working Paper</i>.
+Recommended citation: Felix Nguyen. (2021). &quot;Do Math Whizzes Save More? Long-term Effect of Mathemathical Education on Consumption Behavior..&quot <i>Working Paper</i>.
