@@ -16,7 +16,7 @@ that the effects vary across demographic groups, are stronger for minorities, an
 between before and after the financial crisis of 2008.'
 date: 2021-12-17
 venue: 'Working Paper'
-paperurl: 'http://felixhnguyen.github.io/blob/master/files/MathLiteracyDraft%20(2).pdf'
+paperurl: 'https://felixhnguyen.github.io/files/MathLiteracyDraft%20(2).pdf'
 citation: 'Felix Nguyen. (2021). &quot;Long-Term Effect of Mathematical Literacy on Consumer Behavior: Evidence from Curricular Reforms&quot; <i>Working Paper</i>.'
 ---
 Whether our formative experiences, including education, leave long lasting impacts
@@ -31,6 +31,6 @@ coupon usage rate by nearly a quarter. These effects persist to much later in li
 are robust to potential biases from staggered adoption. Further analyses also show
 that the effects vary across demographic groups, are stronger for minorities, and differ
 between before and after the financial crisis of 2008.
-[Download paper here](http://felixhnguyen.github.io/files/Felix-FinEdu.pdf)
+[Download paper here](https://felixhnguyen.github.io/files/MathLiteracyDraft%20(2).pdf)
 
 Recommended citation: Felix Nguyen. (2021). &quot;Long-Term Effect of Mathematical Literacy on Consumer Behavior: Evidence from Curricular Reforms.&quot; <i>Working Paper</i>.
