@@ -33,4 +33,4 @@ that the effects vary across demographic groups, are stronger for minorities, an
 between before and after the financial crisis of 2008.
 [Download paper here](http://felixhnguyen.github.io/files/Felix-FinEdu.pdf)
 
-Recommended citation: Felix Nguyen. (2021). &quot;Long-Term Effect of Mathematical Literacy on Consumer Behavior: Evidence from Curricular Reforms.&quot <i>Working Paper</i>.
+Recommended citation: Felix Nguyen. (2021). &quot;Long-Term Effect of Mathematical Literacy on Consumer Behavior: Evidence from Curricular Reforms.&quot; <i>Working Paper</i>.
